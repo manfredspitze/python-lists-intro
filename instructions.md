@@ -19,7 +19,7 @@
 >
 > * add elements to a Python list
 > 
-> * print the elements in a Python list
+> * print individual elements in a Python list
 
 
 ### Your Tasks
