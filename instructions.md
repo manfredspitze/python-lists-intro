@@ -45,5 +45,5 @@ the person's name.
 Think of your favorite mode of transportation, such as a motorcycle or a car, and make a list
 that stores several examples of different modes of transportation.
 
-Use your list to print a series of statements about these items, such as "*I would like to own
+Use your list to print a series of statements about these list items, such as "*I would like to own
 a Honda motorcycle*".
