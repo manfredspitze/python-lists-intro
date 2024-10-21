@@ -26,7 +26,7 @@
 
 - Complete the **TRY IT YOURSELF** activities, p. 36, PCC
 - Use comments to label each activity in your script
-  - Example: # 3-1 Names, 3-2 Greetings, etc.
+  - Example: # 3-1 Names, # 3-2 Greetings, etc.
 
 ### 3-1 Names:
 Store the names of a few of your friends in a list called *names*.  Print each person's
